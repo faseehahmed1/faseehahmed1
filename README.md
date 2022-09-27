@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **CSS, HTML and Java.**
 
-- 📝 I regularly write articles on [my journey into tech](my journey into tech)
+- 📝 I regularly write articles on my journey into tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
