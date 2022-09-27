@@ -1,5 +1,4 @@
 ![MasterHead](https://lh3.googleusercontent.com/c8ooDY8KySj1DZqV3Kf6RsHUXeqyzRUy8zNMJeXR3bPhGdYwPog1Zgx1fqfU14rFkMJf_AqpfjmekZf1OaFBPF_wCPICvnzir-Vol3KSFxxTYHIIjd9YtOCZUgvzbTBW-8N7HiO4ug=w2400)
-<h1 align="center">Hi 👋, I'm Faseeh Ahmed</h1>
 <h3 align="center">Aspiring Software Engineer @SchoolofCode</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
