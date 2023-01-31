@@ -6,12 +6,13 @@
 <hr>
 
 ### Hi there 👋
-
-<img align="left" src="./img/Profile/profileCircle.png" width="100" style='margin-right: 15px'>
+<div style='display:flex'>
+<img align="left" src="./img/Profile/profileCircle.png" width="100" height='100' style='margin-right: 15px'>
 
 <div>
 A passionate, determined and solution oriented aspiring software engineer looking to step into the world of technology. The School of Code bootcamp has given me a strong foundation in agile methodologies, full stack development and communication to flourish in a modern tech firm. I worked in a new team every week to build projects starting from an idea in Miro, to a High-Fi wireframes in Figma and finally coding the solution using industry-leading frameworks like Next.js.
 Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before that I studied Mechanical Engineering.
+</div>
 </div>
 
 <hr>
