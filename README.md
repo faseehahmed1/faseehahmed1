@@ -42,10 +42,12 @@ Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before t
 <hr>
 
 
-<h3>Projects</h3>
+<h3 align="center">Projects</h3>
+<p align="center">
 The README.md of each project goes into details about the specifics of the projects such as entire tech stack used, key learning points and any roadblockers encountered. 
-
+</p>
 <br>
+<div align="center">
 
 |               Project |                                                            |                                                          | Key Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
@@ -54,3 +56,4 @@ The README.md of each project goes into details about the specifics of the proje
 |          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
 
 
+</div>
