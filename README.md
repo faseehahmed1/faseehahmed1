@@ -13,9 +13,9 @@
 A passionate, determined and solution oriented aspiring software engineer looking to step into the world of technology. The School of Code bootcamp has given me a strong foundation in agile methodologies, full stack development and communication to flourish in a modern tech firm. I worked in a new team every week to build projects starting from an idea in Miro, to a High-Fi wireframes in Figma and finally coding the solution using industry-leading frameworks like Next.js.
 Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before that I studied Mechanical Engineering.
 </div>
-<br>
+
 <hr>
-<br>
+
 
 <h3 align="center" style='margin-bottom:15px'>Languages and Tools:</h3>
 <div style="display: inline_block" align="center">
@@ -37,9 +37,9 @@ Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before t
   <img src="./img/TechIcons/SuperTest.png" width="40">
 </div>
 
-<br>
+
 <hr>
-<br>
+
 
 <h3>Projects</h3>
 The README.md of each project goes into details about the specifics of the projects such as entire tech stack used, key learning points, roadblock that were hit. 
