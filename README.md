@@ -1,5 +1,5 @@
   <div align="center"> 
-  <a href="/" target="_blank"><img src="https://img.shields.io/badge/-CV-%23E0004f?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
+  <a href="https://faseehahmed.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-5551E3?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
   <a href = "mailto: faseeh_455@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/faseehahmed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
@@ -43,7 +43,7 @@ Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before t
 
 
 <h3>Projects</h3>
-The README.md of each project goes into details about the specifics of the projects such as entire tech stack used, key learning points, roadblock that were hit. 
+The README.md of each project goes into details about the specifics of the projects such as entire tech stack used, key learning points and any roadblockers encountered. 
 
 <br>
 
@@ -51,5 +51,6 @@ The README.md of each project goes into details about the specifics of the proje
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 | Cheers - Bar Finder | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code) | [Demo](https://bc13-final-project-front-end-beast-code-beast-code.vercel.app/) | Next, React, TypeScript, MongoDB, Various Testing Libraries     |
 |          Project Hub | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Demo](https://connect-project-hub.netlify.app/)         | React, PostgreSQL, Various Testing Libraries     |
+|          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
 
 
