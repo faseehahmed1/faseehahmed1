@@ -1,48 +1,46 @@
-  <div align="center"> 
-  <a href="https://faseehahmed.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-5551E3?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
-  <a href = "mailto: faseeh_455@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/faseehahmed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
-<hr>
+<h2 align="center">Hey, I'm Faseeh, An aspiring front-end developer</h2>
 
-### Hi there 👋
-<div style='display:flex'>
+<div style='display:flex, flex-direction:column, justify-content:center'>
 <img align="left" src="./img/Profile/profileCircle.png" width="100" height='100' style='margin-right: 15px'>
 
-<div>
+<div style='display:flex'>
 A passionate, determined and solution oriented aspiring software engineer looking to step into the world of technology. The School of Code bootcamp has given me a strong foundation in agile methodologies, full stack development and communication to flourish in a modern tech firm. I worked in a new team every week to build projects starting from an idea in Miro, to a High-Fi wireframes in Figma and finally coding the solution using industry-leading frameworks like Next.js.
 Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before that I studied Mechanical Engineering.
 </div>
 </div>
+<br>
 
-<hr>
-
-
-<h3 align="center" style='margin-bottom:15px'>Languages and Tools:</h3>
-<div style="display: inline_block" align="center">
-  <img src="./img/TechIcons/React.png" width="40">
-  <img src="./img/TechIcons/Next.png" width="40">
-  <img src="./img/TechIcons/JavaScript.png" width="40">
-  <img src="./img/TechIcons/Html.png" width="40">
-  <img src="./img/TechIcons/TypeScript.png" width="40">
-  <img src="./img/TechIcons/Nodejs.png" width="40">
-  <img src="./img/TechIcons/Css.png" width="40">
-  <img src="./img/TechIcons/Tailwind.png" width="40">
-  <img src="./img/TechIcons/Figma.png" width="40">
-  <img src="./img/TechIcons/GitHub.png" width="40">
-  <img src="./img/TechIcons/Miro.png" width="40">
-  <img src="./img/TechIcons/PostgreSQL.png" width="40">
-  <img src="./img/TechIcons/MongoDB.png" width="40">
-  <img src="./img/TechIcons/Jest.png" width="40">
-  <img src="./img/TechIcons/Cypress.png" width="40">
-  <img src="./img/TechIcons/SuperTest.png" width="40">
+  <div align="center"> 
+  <a href="https://faseehahmed.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-5551E3?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank"></a>
+  <a href = "mailto: faseeh_455@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/faseehahmed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+<br><br>
+<h1 align="center">Languages and Tools</h1>
+<div align="center">
+  <img src="./img/TechIcons/React.png" width="45">
+  <img src="./img/TechIcons/Next.png" width="45">
+  <img src="./img/TechIcons/JavaScript.png" width="45">
+  <img src="./img/TechIcons/Html.png" width="45">
+  <img src="./img/TechIcons/TypeScript.png" width="45">
+  <img src="./img/TechIcons/Nodejs.png" width="45">
+  <img src="./img/TechIcons/Css.png" width="45">
+  <img src="./img/TechIcons/Tailwind.png" width="45">
+  <img src="./img/TechIcons/Figma.png" width="45">
+  <img src="./img/TechIcons/GitHub.png" width="45">
+  <img src="./img/TechIcons/Miro.png" width="45">
+  <img src="./img/TechIcons/PostgreSQL.png" width="45">
+  <img src="./img/TechIcons/MongoDB.png" width="45">
+  <img src="./img/TechIcons/Jest.png" width="45">
+  <img src="./img/TechIcons/Cypress.png" width="45">
+  <img src="./img/TechIcons/SuperTest.png" width="45">
 </div>
 
 
-<hr>
+<br><br>
 
 
-<h3 align="center">Projects</h3>
+<h1 align="center">Projects</h1>
 <p align="center">
 The README.md of each project goes into details about the specifics of the projects such as entire tech stack used, key learning points and any roadblockers encountered. 
 </p>
@@ -57,3 +55,8 @@ The README.md of each project goes into details about the specifics of the proje
 
 
 </div>
+<br>
+
+---
+<div align="center">
+<img src="https://www.codewars.com/users/faseehahmed1/badges/large"/></div>
