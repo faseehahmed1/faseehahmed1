@@ -1,4 +1,4 @@
-<h2 align="center">👨‍💻 About Me </h2>
+<h1 align="center">👨‍💻 About Me </h1>
 
 <div style='display:flex; justify-content:center'>
 
@@ -81,6 +81,6 @@ The README.md of each project goes into details about the specifics of the proje
 <br>
 
 <div align="center">
-<h2 align="center">⚔️ Codewars</h2>
+<h1 align="center">⚔️ Codewars</h1>
 
 <img src="https://www.codewars.com/users/faseehahmed1/badges/large"/></div>
