@@ -1,10 +1,10 @@
-<h2 align="center">Hey, I'm Faseeh, An aspiring front-end developer</h2>
+<h2 align="center">👨‍💻 About Me </h2>
 
-<div style='display:flex, flex-direction:column, justify-content:center'>
+<div style='display:flex; flex-direction:row; justify-content:center'>
 <img align="left" src="./img/Profile/profileCircle.png" width="100" height='100' style='margin-right: 15px'>
 
 <div style='display:flex'>
-A passionate, determined and solution oriented aspiring software engineer looking to step into the world of technology. The School of Code bootcamp has given me a strong foundation in agile methodologies, full stack development and communication to flourish in a modern tech firm. I worked in a new team every week to build projects starting from an idea in Miro, to a High-Fi wireframes in Figma and finally coding the solution using industry-leading frameworks like Next.js.
+A passionate, determined and solution oriented aspiring Full-Stack Developer looking to step into the world of technology. The School of Code bootcamp has given me a strong foundation in agile methodologies, full stack development and communication to flourish in a modern tech firm. I worked in a new team every week to build projects starting from an idea in Miro, to a High-Fi wireframes in Figma and finally coding the solution using industry-leading frameworks like Next.js.
 Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before that I studied Mechanical Engineering.
 </div>
 </div>
@@ -16,7 +16,7 @@ Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before t
   <a href="https://www.linkedin.com/in/faseehahmed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <br><br>
-<h1 align="center">Languages and Tools</h1>
+<h1 align="center">🛠 Languages and Tools</h1>
 <div align="center">
   <img src="./img/TechIcons/React.png" width="45">
   <img src="./img/TechIcons/Next.png" width="45">
@@ -40,7 +40,7 @@ Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before t
 <br><br>
 
 
-<h1 align="center">Projects</h1>
+<h1 align="center">💼 Projects</h1>
 <p align="center">
 The README.md of each project goes into details about the specifics of the projects such as entire tech stack used, key learning points and any roadblockers encountered. 
 </p>
