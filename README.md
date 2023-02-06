@@ -1,11 +1,14 @@
 <h2 align="center">👨‍💻 About Me </h2>
 
-<div style='display:flex; flex-direction:row; justify-content:center'>
-<img align="left" src="./img/Profile/profileCircle.png" width="100" height='100' style='margin-right: 15px'>
+<div style='display:flex; justify-content:center'>
 
-<div style='display:flex'>
-A passionate, determined and solution oriented aspiring Full-Stack Developer looking to step into the world of technology. The School of Code bootcamp has given me a strong foundation in agile methodologies, full stack development and communication to flourish in a modern tech firm. I worked in a new team every week to build projects starting from an idea in Miro, to a High-Fi wireframes in Figma and finally coding the solution using industry-leading frameworks like Next.js.
-Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before that I studied Mechanical Engineering.
+<div style='display:flex; justify-content:center' align="center">
+<p>
+I'm an aspiring developer trained in Full Stack Development at the School of Code. After graduating in Mechanical Engineering and honing my design and development skills, I became a mathematics teacher, breaking down complex concepts and making them accessible to students.
+</p>
+<p>
+However, I was always looking for ways to have a greater impact and when I attended a School of Code demo day, I knew I had found my calling. I soon enrolled in the Full Stack Development bootcamp at the School of Code and have since been dedicated to building my skills as a software developer. I bring a unique combination of technical know-how and a passion for teaching. With his hands-on experience and eagerness to learn, I am looking forward to a new career in tech.
+</p>
 </div>
 </div>
 <br>
@@ -18,22 +21,29 @@ Prior to the coding bootcamp I was briefly a Maths teacher (1 year) and before t
 <br><br>
 <h1 align="center">🛠 Languages and Tools</h1>
 <div align="center">
-  <img src="./img/TechIcons/React.png" width="45">
-  <img src="./img/TechIcons/Next.png" width="45">
-  <img src="./img/TechIcons/JavaScript.png" width="45">
-  <img src="./img/TechIcons/Html.png" width="45">
-  <img src="./img/TechIcons/TypeScript.png" width="45">
-  <img src="./img/TechIcons/Nodejs.png" width="45">
-  <img src="./img/TechIcons/Css.png" width="45">
-  <img src="./img/TechIcons/Tailwind.png" width="45">
-  <img src="./img/TechIcons/Figma.png" width="45">
-  <img src="./img/TechIcons/GitHub.png" width="45">
-  <img src="./img/TechIcons/Miro.png" width="45">
-  <img src="./img/TechIcons/PostgreSQL.png" width="45">
-  <img src="./img/TechIcons/MongoDB.png" width="45">
-  <img src="./img/TechIcons/Jest.png" width="45">
-  <img src="./img/TechIcons/Cypress.png" width="45">
-  <img src="./img/TechIcons/SuperTest.png" width="45">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" >
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="Miro">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+
+     
 </div>
 
 
@@ -58,6 +68,7 @@ The README.md of each project goes into details about the specifics of the proje
 </div>
 <br>
 
----
 <div align="center">
+<h2 align="center">⚔️ Codewars</h2>
+
 <img src="https://www.codewars.com/users/faseehahmed1/badges/large"/></div>
