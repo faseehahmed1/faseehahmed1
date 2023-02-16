@@ -19,6 +19,25 @@ However, I was always looking for ways to have a greater impact and when I atten
   <a href="https://www.linkedin.com/in/faseehahmed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 <br><br>
+
+<h1 align="center">💼 Projects</h1>
+<p align="center">
+See the README.md of each project for more details about the specifics of the projects.
+
+</p>
+<br>
+<div align="center">
+
+|               Project |                                                            |                                                          | Key Tech                 |
+| --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
+| Cheers - Bar Finder | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code) | [Demo](https://bc13-final-project-front-end-beast-code-beast-code.vercel.app/) | Next, React, TypeScript, MongoDB, Various Testing Libraries     |
+|          Project Hub | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Demo](https://connect-project-hub.netlify.app/)         | React, PostgreSQL, Various Testing Libraries     |
+|          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
+|          Pomodoro Timer | [Github](https://github.com/faseehahmed1/pomodoro-timer)        | [Demo](https://pomodoro-app1.netlify.app/)         | Next, Tailwind CSS     |
+
+
+</div>
+<br><br>
 <h1 align="center">🛠 Tech Stack</h1>
 <div align="center">
 <!--   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -60,25 +79,6 @@ However, I was always looking for ways to have a greater impact and when I atten
 
 
 <br><br>
-
-
-<h1 align="center">💼 Projects</h1>
-<p align="center">
-The README.md of each project goes into details about the specifics of the projects such as entire tech stack used, key learning points and any roadblockers encountered. 
-</p>
-<br>
-<div align="center">
-
-|               Project |                                                            |                                                          | Key Tech                 |
-| --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
-| Cheers - Bar Finder | [Github](https://github.com/SchoolOfCode/bc13_final-project_front-end-beast-code) | [Demo](https://bc13-final-project-front-end-beast-code-beast-code.vercel.app/) | Next, React, TypeScript, MongoDB, Various Testing Libraries     |
-|          Project Hub | [Github](https://github.com/faseehahmed1/FrontEnd_Solo_HackStreetBoys)        | [Demo](https://connect-project-hub.netlify.app/)         | React, PostgreSQL, Various Testing Libraries     |
-|          Portfolio | [Github](https://github.com/faseehahmed1/portfolio)        | [Demo](https://faseehahmed.netlify.app/)         | Next, Tailwind CSS     |
-|          Pomodoro Timer | [Github](https://github.com/faseehahmed1/pomodoro-timer)        | [Demo](https://pomodoro-app1.netlify.app/)         | Next, Tailwind CSS     |
-
-
-</div>
-<br>
 
 <div align="center">
 <h1 align="center">⚔️ Codewars</h1>
