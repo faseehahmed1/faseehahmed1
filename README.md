@@ -84,3 +84,9 @@ See the README.md of each project for more details about the specifics of the pr
 <h1 align="center">⚔️ Codewars</h1>
 
 <img src="https://www.codewars.com/users/faseehahmed1/badges/large"/></div>
+
+ <p align="center"><img align="center" src="https://github.com/faseehahmed1/faseehahmed1/blob/output/github-contribution-grid-snake.svg" /></p>
+  
+<br>
+  
+ <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=faseehahmed1&color=green&label=Views" /></p>
