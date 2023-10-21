@@ -85,4 +85,4 @@ See the README.md of each project for more details about the specifics of the pr
 
 <img src="https://www.codewars.com/users/faseehahmed1/badges/large"/></div>
 
- <p align="center"><img align="center" src="https://github.com/faseehahmed1/faseehahmed1/blob/output/github-contribution-grid-snake.svg" /></p>
+ <p align="center"><img align="center" src="https://github.com/faseehahmed1/faseehahmed1/blob/output/github-contribution-grid-snake-dark.svg" /></p>
